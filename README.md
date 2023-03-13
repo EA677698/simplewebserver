@@ -1,1 +1,4 @@
 # simplewebserver
+
+## Usage:
+./webserver [port]
